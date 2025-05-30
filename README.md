@@ -1,2 +1,2 @@
 # app-distribution
-This is an Android app project for the Aryoumehr platform. It is designed to work offline without requiring constant internet access or updates. The app focuses on providing an efficient, user-friendly experience while ensuring that core features remain functional even in offline environments.
+This Android application project is developed for the Aryoumehr platform with a strong emphasis on offline functionality. The app is engineered to operate reliably without requiring constant internet connectivity or frequent updates. Its primary objective is to deliver a smooth, efficient, and user-centric experience, ensuring that all essential features remain fully accessible and operational even in offline environments.
